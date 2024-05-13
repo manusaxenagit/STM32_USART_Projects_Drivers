@@ -1,9 +1,4 @@
-/*
- * STM32F4x_gpio_driver.h
- *
- *  Created on: 27-Nov-2018
- *      Author: kiran
- */
+
 
 #ifndef STM32F446X_UART_DRIVER_H_
 #define STM32F446X_UART_DRIVER_H_
