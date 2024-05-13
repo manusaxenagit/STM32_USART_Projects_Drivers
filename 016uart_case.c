@@ -1,9 +1,3 @@
-/*
- * uart_tx.c
- *
- *  Created on: Jan 22, 2019
- *      Author: admin
- */
 
 #include<stdio.h>
 #include<string.h>
